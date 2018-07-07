@@ -127,6 +127,13 @@ a:hover{
 	border: 1px solid rgba(204,68,34,1);
 }
 
+.follow {
+	width: 100%;
+	height: 60px;
+	display: inline-block;
+	position: relative;
+}
+
 .svgfill {
 	fill: #23272b;
 	opacity: 1;
