@@ -21,6 +21,9 @@ a {
 	cursor: pointer;
 }
 
+a:hover{
+	color: #777;
+}
 
 
 
@@ -97,12 +100,12 @@ a {
 }
 
 .button:hover {
-	background-color: rgba(0,166,255,.1);
-	border: 1px solid rgba(0,166,255,1);
+	background-color: rgba(204,68,34,.1);
+	border: 1px solid rgba(204,68,34,1);
 }
 
 .button:hover > .buttontext {
-	color: rgba(0,166,255,1);
+	color: rgba(204,68,34,1);
 }
 
 .linkbutton {
@@ -120,8 +123,8 @@ a {
 }
 
 .linkbutton:hover {
-	background-color: rgba(0,166,255,.1);
-	border: 1px solid rgba(0,166,255,1);
+	background-color: rgba(204,68,34,.1);
+	border: 1px solid rgba(204,68,34,1);
 }
 
 .svgfill {
@@ -135,7 +138,7 @@ svg {
 }
 
 svg:hover > .svgfill {
-	fill: #00A6FF;
+	fill: #cc4422;
 }
 
 .linkbuttons {
