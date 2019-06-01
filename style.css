@@ -14,6 +14,11 @@ body {
 	cursor: default;
 }
 
+h1 {
+	font-size: 48px;
+	background-image: favicon.ico
+}
+
 a {
 	color: inherit;
 	text-decoration: none;
