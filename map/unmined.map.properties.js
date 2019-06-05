@@ -7,6 +7,6 @@ var UnminedMapProperties = {
     minRegionX: -13,
     minRegionZ: -11,
     maxRegionX: 11,
-    maxRegionZ: 14,
+    maxRegionZ: 22,
     worldName: "TheVoirsVanillaServer"
 }
